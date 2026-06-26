@@ -492,6 +492,7 @@ export const locations = {
   trash: TRASH_LOCATION,
 };
 
+// windows
 const INITIAL_Z_INDEX = 1000;
 
 const WINDOW_CONFIG = {
