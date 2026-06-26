@@ -1,4 +1,4 @@
-import { Hero, Navbar } from "#components";
+import { Dock, Hero, Navbar } from "#components";
 
 
 export default function App() {
@@ -6,6 +6,7 @@ export default function App() {
     <main>
       <Navbar />
       <Hero />
+      <Dock />
     </main>
   )
 }

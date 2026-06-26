@@ -36,6 +36,7 @@ const navIcons = [
   },
 ];
 
+// Dock
 const dockApps = [
   {
     id: "finder",
